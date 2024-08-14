@@ -26,7 +26,6 @@ namespace BankAccount.Tests
         {
             // AAA - Arrange Act Assert
             // Arrange
-            Account acc = new Account("J. Doe");
             double depositAmount = 100;
             double expectedReturn = 100;
 
